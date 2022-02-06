@@ -32,5 +32,4 @@ db.connect(err => {
     });
 });
 
-// Mid-12.4.6 'Create POST Route'
 
