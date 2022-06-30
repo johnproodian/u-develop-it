@@ -1,8 +1,8 @@
 # U Develop It
 
+A (hypothetical) local developers meetup is building an application to vote for a new president. 
 
-
-a voting application for a local developer meetup group called U Develop It. In addition to building the Express.js API, which you already know how to create, you'll connect the back end to a relational database using MySQL.
+U Develop It is the back end for such an application consisting of an Express.js API and a MySQL database for data regarding candidates, parties, voters, and votes.
 
 
 ## Built With
@@ -10,8 +10,6 @@ a voting application for a local developer meetup group called U Develop It. In 
 * Node.js
 * Express.js
 * SQL/MySQL
-
-
 
 
 ## What I Learned
