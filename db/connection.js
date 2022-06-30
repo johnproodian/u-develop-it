@@ -6,7 +6,7 @@ const db = mysql.createConnection({
     //Your mysql username,
     user: 'root',
     // Your mysql password
-    password: 'myTantrum7!',
+    password: 'Password1!',
     database: 'election'
 });
 
